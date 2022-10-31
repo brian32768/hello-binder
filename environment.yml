@@ -1,0 +1,8 @@
+name: binder
+channels:
+  - esri
+  - conda-forge
+  - defaults
+dependencies:
+  - arcgis
+prefix: C:\Users\bwilson\.conda\envs\binder
