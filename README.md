@@ -23,7 +23,8 @@ Binder will then build a Docker container and load up whatever you specified in 
 and set up a Notebook environment for you.
 
 Then you can run the notebook, modify it etc.. all in the browser window.
-You can launch the project in this repository using this URL: https://mybinder.org/v2/gh/brian32768/hello-binder/main?labpath=index.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brian32768/hello-binder/main)
 
 ## Resources
 
